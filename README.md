@@ -1,6 +1,7 @@
 # AIclues Outlook Add-in
 
 A task management add-in for Microsoft Outlook (Desktop & Web)
+demo: https://www.loom.com/share/932fbd3cef9d49bc89538c2d8b5882ea
 
 ## Local Testing on macOS
 
