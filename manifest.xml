@@ -9,12 +9,12 @@
   <!-- Required Basic Metadata -->
   <Id>1d730138-f7f4-411a-bfad-c730bdab5e4b</Id>
   <Version>1.0.0.0</Version>
-  <ProviderName>AiClues</ProviderName>
+  <ProviderName>Contact Clues</ProviderName>
   <DefaultLocale>en-US</DefaultLocale>
-  <DisplayName DefaultValue="AiClues"/>
+  <DisplayName DefaultValue="Contact Clues"/>
   <Description DefaultValue="Outlook add-in for form submission"/>
-  <IconUrl DefaultValue="https://localhost:3000/assets/aiclues-64.png"/>
-  <HighResolutionIconUrl DefaultValue="https://localhost:3000/assets/aiclues-128.png"/>
+  <IconUrl DefaultValue="https://localhost:3000/assets/contactclues-64.png"/>
+  <HighResolutionIconUrl DefaultValue="https://localhost:3000/assets/contactclues-128.png"/>
   <SupportUrl DefaultValue="https://aiclues.com/"/>
 
   <!-- Host Configuration -->
@@ -80,15 +80,15 @@
     </Hosts>
     <Resources>
       <bt:Images>
-        <bt:Image id="Icon.16x16" DefaultValue="https://localhost:3000/assets/aiclues-16.png"/>
-        <bt:Image id="Icon.32x32" DefaultValue="https://localhost:3000/assets/aiclues-32.png"/>
-        <bt:Image id="Icon.80x80" DefaultValue="https://localhost:3000/assets/aiclues-80.png"/>
+        <bt:Image id="Icon.16x16" DefaultValue="https://localhost:3000/assets/contactclues-16.png"/>
+        <bt:Image id="Icon.32x32" DefaultValue="https://localhost:3000/assets/contactclues-32.png"/>
+        <bt:Image id="Icon.80x80" DefaultValue="https://localhost:3000/assets/contactclues-80.png"/>
       </bt:Images>
       <bt:Urls>
         <bt:Url id="Taskpane.Url" DefaultValue="https://localhost:3000/taskpane.html"/>
       </bt:Urls>
       <bt:ShortStrings>
-        <bt:String id="GroupLabel" DefaultValue="AiClues"/>
+        <bt:String id="GroupLabel" DefaultValue="Contact Clues"/>
         <bt:String id="TaskpaneButton.Label" DefaultValue="Open Form"/>
       </bt:ShortStrings>
       <bt:LongStrings>

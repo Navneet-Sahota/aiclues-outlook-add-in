@@ -1,4 +1,4 @@
-# AIclues Outlook Add-in
+# Contact Clues Outlook Add-in
 
 A task management add-in for Microsoft Outlook (Desktop & Web)
 demo: https://www.loom.com/share/932fbd3cef9d49bc89538c2d8b5882ea
@@ -51,7 +51,7 @@ demo: https://www.loom.com/share/932fbd3cef9d49bc89538c2d8b5882ea
 
 1. **Restart Outlook**
 2. **Open any email message**
-3. **Click "Home" tab → "AiClues" button**
+3. **Click "Home" tab → "Contact Clues" button**
 4. **Test features:**
    - Enter task title & description
    - Submit form
